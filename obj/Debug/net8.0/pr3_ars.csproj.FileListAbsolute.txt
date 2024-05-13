@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\pr3_ars\bin\Debug\net8.0\pr3_ars.exe
+C:\Users\student\Desktop\pr3_ars\bin\Debug\net8.0\pr3_ars.deps.json
+C:\Users\student\Desktop\pr3_ars\bin\Debug\net8.0\pr3_ars.runtimeconfig.json
+C:\Users\student\Desktop\pr3_ars\bin\Debug\net8.0\pr3_ars.dll
+C:\Users\student\Desktop\pr3_ars\bin\Debug\net8.0\pr3_ars.pdb
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.AssemblyInfo.cs
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.dll
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\refint\pr3_ars.dll
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.pdb
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\pr3_ars.genruntimeconfig.cache
+C:\Users\student\Desktop\pr3_ars\obj\Debug\net8.0\ref\pr3_ars.dll
